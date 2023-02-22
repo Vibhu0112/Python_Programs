@@ -1,0 +1,4 @@
+Hello vibhu 
+This is python class 
+Today is practical of python 
+set-2 is assigned to me for practical 
